@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: "http://localhost:49743"
+  apiUrl: "http://jugmeasure20170414022449.azurewebsites.net"
 };
